@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a recent Flatiron School graduate looking to find a spot where I can make an impact. I have truly enjoyed taking my first steps into JavaScript, React, Ruby and Ruby on Rails. I am currently contracting with Down to Earth Cloud Solutions and loving the opportunity to learn Vue!
+I'm a recent Flatiron School graduate looking to find a spot where I can make an impact. I have truly enjoyed taking my first steps into JavaScript, React, Ruby and Ruby on Rails. I am currently consulting with Down to Earth Cloud Solutions and loving the opportunity to learn Vue while working on client apps.
 
 
 ## 🌐 Socials:
